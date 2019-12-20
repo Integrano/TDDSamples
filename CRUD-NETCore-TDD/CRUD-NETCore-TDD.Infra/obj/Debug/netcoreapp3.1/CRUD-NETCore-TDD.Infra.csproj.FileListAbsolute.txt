@@ -1,0 +1,8 @@
+C:\Users\Developer\source\repos\CRUD-NETCore-TDD\CRUD-NETCore-TDD.Infra\bin\Debug\netcoreapp3.1\CRUD-NETCore-TDD.Infra.deps.json
+C:\Users\Developer\source\repos\CRUD-NETCore-TDD\CRUD-NETCore-TDD.Infra\bin\Debug\netcoreapp3.1\CRUD-NETCore-TDD.Infra.dll
+C:\Users\Developer\source\repos\CRUD-NETCore-TDD\CRUD-NETCore-TDD.Infra\bin\Debug\netcoreapp3.1\CRUD-NETCore-TDD.Infra.pdb
+C:\Users\Developer\source\repos\CRUD-NETCore-TDD\CRUD-NETCore-TDD.Infra\obj\Debug\netcoreapp3.1\CRUD-NETCore-TDD.Infra.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\CRUD-NETCore-TDD\CRUD-NETCore-TDD.Infra\obj\Debug\netcoreapp3.1\CRUD-NETCore-TDD.Infra.AssemblyInfo.cs
+C:\Users\Developer\source\repos\CRUD-NETCore-TDD\CRUD-NETCore-TDD.Infra\obj\Debug\netcoreapp3.1\CRUD-NETCore-TDD.Infra.dll
+C:\Users\Developer\source\repos\CRUD-NETCore-TDD\CRUD-NETCore-TDD.Infra\obj\Debug\netcoreapp3.1\CRUD-NETCore-TDD.Infra.pdb
+C:\Users\Developer\source\repos\CRUD-NETCore-TDD\CRUD-NETCore-TDD.Infra\obj\Debug\netcoreapp3.1\CRUD-NETCore-TDD.Infra.csprojAssemblyReference.cache
